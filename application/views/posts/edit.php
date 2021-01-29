@@ -8,7 +8,7 @@
 </div>
 <div class="form-group">
     <label>Body</label>
-    <textarea type="text" class="form-control" name="body"><?php echo $post['body'] ?></textarea>
+    <textarea id="editor1" type="text" class="form-control" name="body"><?php echo $post['body'] ?></textarea>
 </div>
 
 <!-- <div class="form-group">
